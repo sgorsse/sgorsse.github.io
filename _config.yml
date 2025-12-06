@@ -24,7 +24,7 @@ repository               : "sgorsse/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Stéphane Gorsse"
   pronouns         : # example: "she/her"  
   bio              : "Professor at ICMCB (CNRS) & Bordeaux INP | Currently Adjunct Senior Researcher at NTU Singapore | AI for Materials Science"
   location         : "Singapore"
