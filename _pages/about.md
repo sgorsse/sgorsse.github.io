@@ -12,12 +12,7 @@ My work focuses on **alloy design**, **high-entropy alloys (HEAs)**, and **artif
 
 ## Research Focus
 
-My work combines **alloy design**, **high-entropy and complex concentrated alloys (HEAs/CCAs)**, and **artificial intelligence for materials science**, with a strong emphasis on hybrid **physics–AI models**.
-
-More specifically, I am interested in:
-- **Designing and optimising HEAs and related alloys** for structural and functional applications,  
-- **Using thermodynamic and mechanistic modelling** to rationalise phase stability and microstructure–property relationships,  
-- **Developing machine learning and AI workflows**, from feature engineering and predictive models to active learning and closed-loop design, to accelerate materials discovery.
+I combine expertise in physical metallurgy with computational thermodynamics and modern AI methods to build machine learning workflows – from feature engineering and predictive models to active learning and closed-loop design – that accelerate and rationalise the discovery of new materials.
 
 A central theme of my recent work is the development, analysis and application of **hybrid physics–AI models** for materials design and understanding, with three main directions:
 
