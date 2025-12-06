@@ -25,6 +25,17 @@ A central theme of my recent work is the development, analysis and application o
 3. **Physics-based synthetic data for AI**  
    Exploiting **physics-based models as generators of synthetic data** to complement limited experimental datasets, and building **multi-fidelity frameworks** that combine simulated and experimental data in a controlled way, enabling performant AI models in **data-poor regimes**.
 
+## Applications
+
+These hybrid physics–AI approaches are applied to:
+
+- **HEA catalysts for hydrogen evolution reaction (HER)** – design and optimisation of low-dimensional HEAs for efficient, stable electrocatalysis,    
+- **High-temperature and energy materials** – development of alloys for elevated-temperature applications and energy systems (e.g. power generation and turbine blades for propulsion), 
+- **Active-learning-guided optimisation of thin-film processes** – using active learning with high-throughput SALD to identify deposition parameters (substrate, thickness, precursors, flows, temperature, etc.) that optimise 3D nanostructured piezoelectric energy harvesters for IoT applications.
+
 ## Key Achievements
 
 I am the author or co-author of **120+ papers** in international peer-reviewed journals and have delivered around **50 invited talks** at international conferences and universities. I have coordinated or led numerous **EU-funded, national, and industry-partnered projects**, and in 2018 I received the **Constellium Prize of the French Academy of Sciences** for my contributions to metallurgy.
+
+## Recent Papers & Projects
+
