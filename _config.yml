@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Professor at ICMCB (CNRS) & Bordeaux INP. Currently Adjunct Senior Researcher at NTU Singapore (AI for Materials Science)."
+  bio              : "Professor at ICMCB (CNRS) & Bordeaux INP | Currently Adjunct Senior Researcher at NTU Singapore | AI for Materials Science"
   location         : "Singapore"
-  employer         : "CINTRA"
+  employer         : "CINTRA | NTU"
   uri              : # URL
-  email            : "sgorsse@gmail.com" 
+  email            : # "sgorsse@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Stephane-Gorsse"
   scopus           : # URL
   zotero           : # URL
 
