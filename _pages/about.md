@@ -40,7 +40,9 @@ I am the author or co-author of **120+ papers** in international peer-reviewed j
 ## Recent Papers & Projects
 
 ### AI & Materials Sustainability
-**As part of my work at the interface of AI, alloy design and sustainability, I develop quantitative indicators, open datasets and decision frameworks to integrate economic, environmental and societal criteria into high-entropy alloy design. The publications below provide a foundation for sustainability-aware, data-driven and AI-guided exploration of HEA composition space.**
+**This line of work is developed in close collaboration with Prof. Matthew R. Barnett (Deakin University, Australia) and focuses on integrating economic, environmental and societal criteria into AI-guided high-entropy alloy design.**
+
+As part of my work at the interface of AI, alloy design and sustainability, I develop quantitative indicators, open datasets and decision frameworks to integrate economic, environmental and societal criteria into high-entropy alloy design. The publications below provide a foundation for sustainability-aware, data-driven and AI-guided exploration of HEA composition space.
 
 - S. Gorsse, T. Langlois, and M. R. Barnett,  
   *Considering sustainability when searching for new high entropy alloys*,  
