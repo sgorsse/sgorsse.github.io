@@ -39,7 +39,7 @@ I am the author or co-author of **120+ papers** in international peer-reviewed j
 
 ## Recent Papers & Projects
 
-### AI & Materials Sustainability
+### 🌱📊 Sustainability-Informed Alloy Design with AI
 **This line of work is developed in close collaboration with Prof. Matthew R. Barnett (Deakin University, Australia) and focuses on integrating economic, environmental and societal criteria into AI-guided high-entropy alloy design.**
 
 As part of my work at the interface of AI, alloy design and sustainability, I develop quantitative indicators, open datasets and decision frameworks to integrate economic, environmental and societal criteria into high-entropy alloy design. The publications below provide a foundation for sustainability-aware, data-driven and AI-guided exploration of HEA composition space.
@@ -59,5 +59,7 @@ As part of my work at the interface of AI, alloy design and sustainability, I de
   **Metallurgical and Materials Transactions A** (2025).  
   https://doi.org/10.1007/s11661-025-07928-9
 
+### 🚀⚙️ **AI-Driven Design of High-Temperature Structural Alloys**
+**In this line of work, developed in collaboration with Prof. An-Chou Yeh (National Tsing Hua University, Taiwan), I combine physical metallurgy, CALPHAD-based thermodynamics and physics-informed, AI-driven optimisation to design and assess high-temperature structural alloys, including HEAs and CCAs for turbine blades and other hot-section components.**
 
 
