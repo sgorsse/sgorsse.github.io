@@ -46,7 +46,7 @@ As part of my work at the interface of AI, alloy design, and sustainability, I d
 To facilitate the practical application of these metrics, I developed an **open-source tool** designed to integrate sustainability into alloy design. It calculates 9 economic, environmental, and societal footprints, providing a comparative visualization of new alloy formulas versus current state-of-the-art (HEAs/CCAs) and commercial standards.
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://alloy-sustainability-calculator-sg.streamlit.app/)
 
-The publications below provide a foundation for this sustainability-aware, data-driven, and AI-guided exploration of HEA composition space.
+The publications below provide a foundation for this sustainability-aware exploration of HEA composition space.
 
 - S. Gorsse, T. Langlois, and M. R. Barnett,  
   *Considering sustainability when searching for new high entropy alloys*,  
