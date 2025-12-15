@@ -42,7 +42,11 @@ I am the author or co-author of **120+ papers** in international peer-reviewed j
 ### 🌱📊 Sustainability-Informed Alloy Design with AI
 This line of work is developed in close collaboration with Prof. Matthew R. Barnett (Deakin University, Australia) and focuses on integrating economic, environmental and societal criteria into AI-guided high-entropy alloy design.
 
-As part of my work at the interface of AI, alloy design and sustainability, I develop quantitative indicators, open datasets and decision frameworks to integrate economic, environmental and societal criteria into high-entropy alloy design. The publications below provide a foundation for sustainability-aware, data-driven and AI-guided exploration of HEA composition space.
+As part of my work at the interface of AI, alloy design, and sustainability, I develop quantitative indicators, open datasets, and decision frameworks to integrate economic, environmental and societal criteria into high-entropy alloy design. 
+To facilitate the practical application of these metrics, I developed an **open-source tool** designed to integrate sustainability into alloy design. It calculates 9 economic, environmental, and societal footprints, providing a comparative visualization of new alloy formulas versus current state-of-the-art (HEAs/CCAs) and commercial standards.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://alloy-sustainability-calculator-sg.streamlit.app/)
+
+The publications below provide a foundation for this sustainability-aware, data-driven, and AI-guided exploration of HEA composition space.
 
 - S. Gorsse, T. Langlois, and M. R. Barnett,  
   *Considering sustainability when searching for new high entropy alloys*,  
@@ -54,9 +58,9 @@ As part of my work at the interface of AI, alloy design and sustainability, I de
   **Scientific Data** 12 (2025) 288.  
   https://doi.org/10.1038/s41597-025-04568-x  
 
-- S. Gorsse, T. Langlois, and M. R. Barnett,  
+- M. R. Barnett and S. Gorsse,  
   *Sustainability of High Entropy Alloys and Do They Have a Place in a Circular Economy?*,  
-  **Metallurgical and Materials Transactions A** (2025).  
+  **Metallurgical and Materials Transactions A** 56 (2025) 4249.  
   https://doi.org/10.1007/s11661-025-07928-9
 
 ### 🚀⚙️ **AI-Driven Design of High-Temperature Structural Alloys**
