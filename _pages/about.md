@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a materials scientist, and my research focuses on using AI to accelerate materials discovery and design—especially for complex metallic alloys, such as high-entropy alloys
+I’m a materials scientist, and my research focuses on using AI to accelerate materials discovery and design—especially for complex metallic alloys, such as high-entropy alloys. I use AI not as a black box, but as a way to connect data, physics, and experiments into a coherent design loop for new materials.
 
 ## Research Focus
 
@@ -15,8 +15,6 @@ I’m a materials scientist, and my research focuses on using AI to accelerate m
 * **Data-Centric Materials AI** — A big part of my work is also data-centric. I spend a lot of effort curating datasets, checking consistency, and managing uncertainty, because in materials science the data quality often limits the model more than the algorithm itself.
 
 * **Decision-Making: Active Learning and Multi-Objective Optimization** — Finally, I’m interested in decision-making tools: active learning to choose the next best experiments, and multi-objective optimization to balance performance with constraints like cost, sustainability, or compositional robustness.
-
-* **Closing Perspective** — In short, I use AI not as a black box, but as a way to connect data, physics, and experiments into a coherent design loop for new materials.
 
 
 ## Academic Positions and International Appointments
