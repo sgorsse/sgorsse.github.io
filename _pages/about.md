@@ -6,12 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I’m a materials scientist, and my research focuses on using AI to accelerate materials discovery and design—especially for complex metallic alloys, such as high-entropy alloys
 
 ## Research Focus
 
-* **AI for Materials Discovery and Design** — I’m a materials scientist, and my research focuses on using AI to accelerate materials discovery and design—especially for complex metallic alloys, such as high-entropy alloys.
-
-* **Physics-Informed Modeling for Predictive Alloy Design** — My main goal is practical: to predict and optimize key properties—like strength, ductility, phase stability, or stacking fault energy—when experiments are slow, expensive, or noisy. For that, I build “physics-informed” machine learning workflows: instead of learning only from composition, I try to feed the models with physically meaningful descriptors and constraints, so the predictions are more robust and easier to interpret.
+* **Physics-Informed Modeling for Predictive Alloy Design** — My main goal is practical: to predict and optimize key properties—like strength, ductility, or stacking fault energy—when experiments are slow, expensive, or noisy. For that, I build “physics-informed” machine learning workflows: instead of learning only from composition, I try to feed the models with physically meaningful descriptors and constraints, so the predictions are more robust and easier to interpret.
 
 * **Data-Centric Materials AI** — A big part of my work is also data-centric. I spend a lot of effort curating datasets, checking consistency, and managing uncertainty, because in materials science the data quality often limits the model more than the algorithm itself.
 
