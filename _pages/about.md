@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "AI for Materials Science"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Research Focus: AI for Materials Science
+## Research Focus
 
 * **AI for Materials Discovery and Design** — I’m a materials scientist, and my research focuses on using AI to accelerate materials discovery and design—especially for complex metallic alloys, such as high-entropy alloys.
 
@@ -19,7 +19,6 @@ redirect_from:
 
 * **Closing Perspective** — In short, I use AI not as a black box, but as a way to connect data, physics, and experiments into a coherent design loop for new materials.
 
----
 
 ## Academic Positions and International Appointments
 
