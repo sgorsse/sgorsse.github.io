@@ -67,13 +67,13 @@ The publications below provide a foundation for this sustainability-aware explor
 In this line of work, developed in collaboration with Prof. A.-C. Yeh (National Tsing Hua University, Taiwan) and Dr. D.B. Miracle (Air Force Research Lab., USA), I combine physical metallurgy, CALPHAD-based thermodynamics and physics-informed, AI-driven optimisation to design and assess high-temperature structural alloys, including HEAs and CCAs for turbine blades and other hot-section components.
 
 - S. Gorsse et al.
-  *Advancing refractory high entropy alloy development with AI-predictive models for high temperature oxidation resistance*, 
-  **Scripta Materialia** 255 (2025) 116394. 
+  *Advancing refractory high entropy alloy development with AI-predictive models for high temperature oxidation resistance*,  
+  **Scripta Materialia** 255 (2025) 116394.  
   https://doi.org/10.1016/j.scriptamat.2024.116394
 
 - O.N. Senkov et al.
-  *Correlations to improve high-temperature strength and room temperature ductility of refractory complex concentrated alloys*, 
-  **Materials & Design** 239 (2024) 112762. 
+  *Correlations to improve high-temperature strength and room temperature ductility of refractory complex concentrated alloys*,  
+  **Materials & Design** 239 (2024) 112762.  
   https://doi.org/10.1016/j.matdes.2024.112762
 
 
