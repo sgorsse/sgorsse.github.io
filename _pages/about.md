@@ -6,36 +6,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+## AI for Materials Discovery and Design
+I’m a materials scientist, and my research focuses on using AI to accelerate materials discovery and design—especially for complex metallic alloys, such as high-entropy alloys.
+
+## Physics-Informed Modeling for Predictive Alloy Design
+My main goal is practical: to predict and optimize key properties—like strength, ductility, phase stability, or stacking fault energy—when experiments are slow, expensive, or noisy. For that, I build “physics-informed” machine learning workflows: instead of learning only from composition, I try to feed the models with physically meaningful descriptors and constraints, so the predictions are more robust and easier to interpret.
+
+## Data-Centric Materials AI
+A big part of my work is also data-centric. I spend a lot of effort curating datasets, checking consistency, and managing uncertainty, because in materials science the data quality often limits the model more than the algorithm itself.
+
+## Decision-Making: Active Learning and Multi-Objective Optimization
+Finally, I’m interested in decision-making tools: active learning to choose the next best experiments, and multi-objective optimization to balance performance with constraints like cost, sustainability, or compositional robustness.
+
+## Closing Perspective
+In short, I use AI not as a black box, but as a way to connect data, physics, and experiments into a coherent design loop for new materials.
+
+---
+
+## Academic Positions and International Appointments
+
 I am a professor of materials science at the Institute for Condensed Matter Chemistry of Bordeaux (ICMCB, CNRS) and Bordeaux INP in France, which I joined in 2001. Since September 2025, I have been based in Singapore as an **Adjunct Senior Researcher at Nanyang Technological University (NTU)**, within CINTRA, working on AI-guided design of advanced materials. Since 2020, I have also held an **Honor Chair Professorship** at National Tsing Hua University (Taiwan).
 
-My work focuses on **alloy design**, **high-entropy alloys (HEAs)**, and **artificial intelligence for materials science**. I combine physical metallurgy and computational thermodynamics with data-driven approaches to understand and design metallic materials for energy and sustainability.
+I have built a sustained international research profile, with **120+ peer-reviewed journal publications** and around **50 invited talks** at conferences and universities. I have coordinated or led multiple **EU-funded, national, and industry-partnered projects**, and in 2018 I received the **Constellium Prize of the French Academy of Sciences** for contributions to metallurgy.
 
-## Research Focus
-
-I combine expertise in physical metallurgy with computational thermodynamics and modern AI methods to build machine learning workflows – from feature engineering and predictive models to active learning and closed-loop design – that accelerate and rationalise the discovery of new materials.
-
-A central theme of my recent work is the development, analysis and application of **hybrid physics–AI models** for materials design and understanding, with three main directions:
-
-1. **Physics models augmented by AI**  
-   Using AI to **accelerate, extend or correct** existing physical models (e.g. thermodynamic and kinetic models), in order to explore larger design spaces and capture complex behaviours that are difficult to treat analytically.
-
-2. **AI models augmented by physics**  
-   Embedding **physical constraints and prior knowledge** directly into AI models to improve their **robustness, generalisation and interpretability**, especially in regimes where data are scarce or highly heterogeneous.
-
-3. **Physics-based synthetic data for AI**  
-   Exploiting **physics-based models as generators of synthetic data** to complement limited experimental datasets, and building **multi-fidelity frameworks** that combine simulated and experimental data in a controlled way, enabling performant AI models in **data-poor regimes**.
-
-## Applications
-
-These hybrid physics–AI approaches are applied to:
-
-- **HEA catalysts for hydrogen evolution reaction (HER)** – design and optimisation of low-dimensional HEAs for efficient, stable electrocatalysis,    
-- **High-temperature and energy materials** – development of alloys for elevated-temperature applications and energy systems (e.g. power generation and turbine blades for propulsion), 
-- **Active-learning-guided optimisation of thin-film processes** – using active learning with high-throughput SALD to identify deposition parameters (substrate, thickness, precursors, flows, temperature, etc.) that optimise 3D nanostructured piezoelectric energy harvesters for IoT applications.
-
-## Key Achievements
-
-I am the author or co-author of **120+ papers** in international peer-reviewed journals and have delivered around **50 invited talks** at international conferences and universities. I have coordinated or led numerous **EU-funded, national, and industry-partnered projects**, and in 2018 I received the **Constellium Prize of the French Academy of Sciences** for my contributions to metallurgy.
 
 ## Recent Papers & Projects
 
