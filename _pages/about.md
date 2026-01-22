@@ -26,11 +26,51 @@ I have built a sustained international research profile, with **120+ peer-review
 
 ## Recent Papers & Projects
 
+### 🚀⚙️ **AI-Driven Design of High-Temperature Structural Alloys**
+In this line of work, developed in collaboration with Prof. A.-C. Yeh (National Tsing Hua University, Taiwan), we combine physical metallurgy, CALPHAD-based thermodynamics and physics-informed, AI-driven exploration to design and assess high-temperature structural alloys, including HEAs and CCAs, for extreme-environment technologies.
+
+- S. Gorsse et al.
+  *Advancing refractory high entropy alloy development with AI-predictive models for high temperature oxidation resistance*,  
+  **Scripta Materialia** 255 (2025) 116394.  
+  https://doi.org/10.1016/j.scriptamat.2024.116394
+
+- **Foundation model** developed, with a manuscript in preparation: a **Physics-Resolved Inference & Stacking Model (PRISM)** that decomposes monolithic theoretical laws into mechanistic descriptors and combines them with AI to predict high-temperature yield strength and room-temperature ductility in refractory alloys, including high-entropy alloys, creating a reusable foundation model that can be extended to additional properties and alloy chemistries.
+
+### 🧭🔀 **High Entropy Alloys & Complex Concentrated Alloys**
+
+In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air Force Research Laboratory (AFRL, USA), we have mapped the landscape of high-entropy and complex concentrated alloys, quantified their high-temperature performance, and built open mechanical-property datasets that underpin the design of next-generation refractory alloys for demanding aerospace applications.
+
+- S. Gorsse, D. B. Miracle, O. N. Senkov,  
+  *Mapping the world of complex concentrated alloys*,  
+  **Acta Materialia** 135 (2017) 177–187.  
+  https://doi.org/10.1016/j.actamat.2017.06.027  
+
+- O. N. Senkov, S. Gorsse, D. B. Miracle,  
+  *High temperature strength of refractory complex concentrated alloys*,  
+  **Acta Materialia** 175 (2019) 394–405.  
+  https://doi.org/10.1016/j.actamat.2019.06.032  
+
+- C. K. H. Borg, C. Frey, J. Moh, T. M. Pollock, S. Gorsse, D. B. Miracle,  
+  O. N. Senkov, B. Meredig, J. E. Saal,  
+  *Expanded dataset of mechanical properties and observed phases of multi-principal element alloys*,  
+  **Scientific Data** 7 (2020) 430.  
+  https://doi.org/10.1038/s41597-020-00768-9  
+
+- O. N. Senkov, S. Gorsse, R. Wheeler, E. J. Payton, D. B. Miracle,  
+  *Effect of Re on the microstructure and mechanical properties of NbTiZr and TaTiZr equiatomic alloys*,  
+  **Metals** 11 (2021) 1819.  
+  https://doi.org/10.3390/met11111819  
+
+- O. N. Senkov, S. Gorsse, D. B. Miracle, S. I. Rao, T. M. Butler,  
+  *Correlations to improve high-temperature strength and room-temperature ductility of refractory complex concentrated alloys*,  
+  **Materials & Design** 239 (2024) 112762.  
+  https://doi.org/10.1016/j.matdes.2024.112762
+
 ### 🌱📊 Sustainability-Informed Alloy Design with AI
 This line of work is developed in close collaboration with Prof. M.R. Barnett (Deakin University, Australia) and focuses on integrating economic, environmental and societal criteria into AI-guided high-entropy alloy design.
 
-As part of my work at the interface of AI, alloy design, and sustainability, I develop quantitative indicators, open datasets, and decision frameworks to integrate economic, environmental and societal criteria into high-entropy alloy design. 
-To facilitate the practical application of these metrics, I developed an **open-source tool** designed to integrate sustainability into alloy design. It calculates 9 economic, environmental, and societal footprints, providing a comparative visualization of new alloy formulas versus current state-of-the-art (HEAs/CCAs) and commercial standards.
+As part of my work at the interface of AI, alloy design, and sustainability, we develop quantitative indicators, open datasets, and decision frameworks to integrate economic, environmental and societal criteria into high-entropy alloy design. 
+To facilitate the practical application of these metrics, we developed an **open-source tool** designed to integrate sustainability into alloy design. It calculates 9 economic, environmental, and societal footprints, providing a comparative visualization of new alloy formulas versus current state-of-the-art (HEAs/CCAs) and commercial standards.
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://alloy-sustainability-calculator-sg.streamlit.app/)
 
 The publications below provide a foundation for this sustainability-aware exploration of HEA composition space.
@@ -49,20 +89,4 @@ The publications below provide a foundation for this sustainability-aware explor
   *Sustainability of High Entropy Alloys and Do They Have a Place in a Circular Economy?*,  
   **Metallurgical and Materials Transactions A** 56 (2025) 4249.  
   https://doi.org/10.1007/s11661-025-07928-9
-
-### 🚀⚙️ **AI-Driven Design of High-Temperature Structural Alloys**
-In this line of work, developed in collaboration with Prof. A.-C. Yeh (National Tsing Hua University, Taiwan) and Dr. D.B. Miracle (Air Force Research Lab., USA), I combine physical metallurgy, CALPHAD-based thermodynamics and physics-informed, AI-driven optimisation to design and assess high-temperature structural alloys, including HEAs and CCAs for turbine blades and other hot-section components.
-
-- S. Gorsse et al.
-  *Advancing refractory high entropy alloy development with AI-predictive models for high temperature oxidation resistance*,  
-  **Scripta Materialia** 255 (2025) 116394.  
-  https://doi.org/10.1016/j.scriptamat.2024.116394
-
-- O.N. Senkov et al.
-  *Correlations to improve high-temperature strength and room temperature ductility of refractory complex concentrated alloys*,  
-  **Materials & Design** 239 (2024) 112762.  
-  https://doi.org/10.1016/j.matdes.2024.112762
-
-
-
 
