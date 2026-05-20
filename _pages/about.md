@@ -26,7 +26,7 @@ I have built a sustained international research profile, with **120+ peer-review
 
 ## Recent Papers & Projects
 
-### 🚀⚙️ **AI-Driven Design of High-Temperature Structural Alloys**
+### **AI-Driven Design of High-Temperature Structural Alloys**
 In this line of work, developed in collaboration with Prof. A.-C. Yeh (National Tsing Hua University, Taiwan), we combine physical metallurgy, CALPHAD-based thermodynamics and physics-informed, AI-driven exploration to design and assess high-temperature structural alloys, including HEAs and CCAs, for extreme-environment technologies.
 
 - S. Gorsse et al.
@@ -36,7 +36,7 @@ In this line of work, developed in collaboration with Prof. A.-C. Yeh (National 
 
 - **Foundation model** developed, with a manuscript in preparation: a **Physics-Resolved Inference & Stacking Model (PRISM)** that decomposes monolithic theoretical laws into mechanistic descriptors and combines them with AI to predict high-temperature yield strength and room-temperature ductility in refractory alloys, including high-entropy alloys, creating a reusable foundation model that can be extended to additional properties and alloy chemistries.
 
-### 🧭🔀 **High Entropy Alloys & Complex Concentrated Alloys**
+### **High Entropy Alloys & Complex Concentrated Alloys**
 
 In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air Force Research Laboratory (AFRL, USA), we have mapped the landscape of high-entropy and complex concentrated alloys, quantified their high-temperature performance, and built open mechanical-property datasets that underpin the design of next-generation refractory alloys for demanding aerospace applications.
 
@@ -66,7 +66,7 @@ In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air
   **Materials & Design** 239 (2024) 112762.  
   https://doi.org/10.1016/j.matdes.2024.112762
 
-### 🌱📊 Sustainability-Informed Alloy Design with AI
+### Sustainability-Informed Alloy Design with AI
 This line of work is developed in close collaboration with Prof. M.R. Barnett (Deakin University, Australia) and focuses on integrating economic, environmental and societal criteria into AI-guided high-entropy alloy design.
 
 As part of my work at the interface of AI, alloy design, and sustainability, we develop quantitative indicators, open datasets, and decision frameworks to integrate economic, environmental and societal criteria into high-entropy alloy design. 
@@ -90,3 +90,30 @@ The publications below provide a foundation for this sustainability-aware explor
   **Metallurgical and Materials Transactions A** 56 (2025) 4249.  
   https://doi.org/10.1007/s11661-025-07928-9
 
+### Thermodynamics-Guided Design of HEAs & CCAs
+In collaboration with Prof. Rajarshi Banerjee (University of North Texas, USA), this work combines thermodynamic reasoning, advanced microscopy and alloy processing to design high-entropy and complex concentrated alloys with controlled chemical ordering and tailored properties. The focus is on linking local atomic order, phase transformations and additive-manufacturing pathways to mechanical and functional performance.
+
+- S. Dasari et al.,  
+  *Tuning the degree of chemical ordering in the solid solution of a complex concentrated alloy and its impact on mechanical properties*,  
+  **Acta Materialia** 212 (2021) 116938.  
+  https://doi.org/10.1016/j.actamat.2021.116938  
+
+- V. Chaudhary et al.,  
+  *Magnetic and mechanical properties of additively manufactured Alx(CoFeNi) complex concentrated alloys*,  
+  **Scripta Materialia** 224 (2023) 115149.  
+  https://doi.org/10.1016/j.scriptamat.2022.115149  
+
+- A. Chesetti et al.,  
+  *3D printable low density B2+BCC refractory element based complex concentrated alloy with high compressive strength and plasticity*,  
+  **Scripta Materialia** 225 (2023) 115160.  
+  https://doi.org/10.1016/j.scriptamat.2022.115160  
+
+- S. Dasari et al.,  
+  *Exceptional enhancement of mechanical properties in high-entropy alloys via thermodynamically guided local chemical ordering*,  
+  **Proceedings of the National Academy of Sciences** 120 (2023) e2211787120.  
+  https://doi.org/10.1073/pnas.2211787120  
+
+- S. Dasari et al.,  
+  *Non-classical nucleation of ordered L12 precipitates in the FCC based Al0.25CoFeNi high entropy alloy*,  
+  **Journal of Applied Physics** 134 (2023) 015102.  
+  https://doi.org/10.1063/5.0138924
