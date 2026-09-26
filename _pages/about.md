@@ -38,7 +38,7 @@ A first outcome of the NTU collaboration is a curated experimental dataset and u
 ### **AI-Driven Design of High-Temperature Structural Alloys**
 In this line of work, developed in collaboration with Prof. A.-C. Yeh (National Tsing Hua University, Taiwan), we combine physical metallurgy, CALPHAD-based thermodynamics and physics-informed, AI-driven exploration to design and assess high-temperature structural alloys, including HEAs and CCAs, for extreme-environment technologies.
 
-- W.-C. Lin, S. Gorsse, A.-C. Yeh,
+- W.-C. Lin, S. Gorsse, A.-C. Yeh, 
   *Machine-Learning-Assisted Multi-Objective Screening of Hardness and Oxidation Resistance in Refractory High-Entropy Alloys*,
 
 - W.-C. Lin, S. Gorsse, A.-C. Yeh,
@@ -57,8 +57,8 @@ In this line of work, developed in collaboration with Prof. A.-C. Yeh (National 
 
 In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air Force Research Laboratory (AFRL, USA), we have mapped the landscape of high-entropy and complex concentrated alloys, quantified their high-temperature performance, built open mechanical-property datasets, and more recently benchmarked HEAs against commercial alloys to identify genuinely unexplored composition spaces for future alloy design.
 
-- D B. Miracle ans S. Gorsse
-  *Commercial Alloy Compositions Through a High-Entropy Lens*,
+- D B. Miracle ans S. Gorsse 
+  *Commercial Alloy Compositions Through a High-Entropy Lens*,  
   **JMR** (2026)
   
 - O. N. Senkov, S. Gorsse, D. B. Miracle, S. I. Rao, T. M. Butler,  
