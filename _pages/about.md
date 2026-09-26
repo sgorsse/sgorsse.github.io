@@ -30,9 +30,9 @@ I have built a sustained international research profile, with **120+ peer-review
 This emerging research line is developed in collaboration with Prof. Zheng Liu (Nanyang Technological University, Singapore) and Prof. Gian-Marco Rignanese (UCLouvain, Belgium), extending my AI-for-materials work toward functional materials for energy and catalysis. We combine curated experimental data, materials descriptors, probabilistic machine learning and active learning to map complex design spaces and guide targeted experiments.
 A first outcome of the NTU collaboration is a curated experimental dataset and uncertainty-aware machine-learning framework for the exploration of multinary alloy catalysts for the hydrogen evolution reaction (HER).
 
-- S. Gorsse, B. Tang, Y. Tang, M. Ma and Z. Liu,
-  *Curated dataset of multinary alloy HER catalysts for composition-only modelling with Magpie descriptors and GP baselines*,
-  **Scientific Data** (2026).
+- S. Gorsse, B. Tang, Y. Tang, M. Ma and Z. Liu,  
+  *Curated dataset of multinary alloy HER catalysts for composition-only modelling with Magpie descriptors and GP baselines*,  
+  **Scientific Data** (2026).  
   [DOI: 10.1038/s41597-026-07856-2](https://doi.org/10.1038/s41597-026-07856-2)
 
 ### **AI-Driven Design of High-Temperature Structural Alloys**
