@@ -29,42 +29,54 @@ I have built a sustained international research profile, with **120+ peer-review
 ### **AI-Driven Design of High-Temperature Structural Alloys**
 In this line of work, developed in collaboration with Prof. A.-C. Yeh (National Tsing Hua University, Taiwan), we combine physical metallurgy, CALPHAD-based thermodynamics and physics-informed, AI-driven exploration to design and assess high-temperature structural alloys, including HEAs and CCAs, for extreme-environment technologies.
 
+- W.-C. Lin, S. Gorsse, A.-C. Yeh,
+  *Machine-Learning-Assisted Multi-Objective Screening of Hardness and Oxidation Resistance in Refractory High-Entropy Alloys*,
+
+- W.-C. Lin, S. Gorsse, A.-C. Yeh,
+  *Dataset of oxidation properties of refractory alloys*,
+  **Data in Brief** 68 (2026) 113105.
+  [DOI: 10.1016/j.dib.2026.113105](https://doi.org/10.1016/j.dib.2026.113105)
+
 - S. Gorsse et al.
   *Advancing refractory high entropy alloy development with AI-predictive models for high temperature oxidation resistance*,  
   **Scripta Materialia** 255 (2025) 116394.  
-  https://doi.org/10.1016/j.scriptamat.2024.116394
+  [DOI: 10.1016/j.scriptamat.2024.116394](https://doi.org/10.1016/j.scriptamat.2024.116394)
 
 - **Foundation model** developed, with a manuscript in preparation: a **Physics-Resolved Inference & Stacking Model (PRISM)** that decomposes monolithic theoretical laws into mechanistic descriptors and combines them with AI to predict high-temperature yield strength and room-temperature ductility in refractory alloys, including high-entropy alloys, creating a reusable foundation model that can be extended to additional properties and alloy chemistries.
 
 ### **High Entropy Alloys & Complex Concentrated Alloys**
 
-In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air Force Research Laboratory (AFRL, USA), we have mapped the landscape of high-entropy and complex concentrated alloys, quantified their high-temperature performance, and built open mechanical-property datasets that underpin the design of next-generation refractory alloys for demanding aerospace applications.
+In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air Force Research Laboratory (AFRL, USA), we have mapped the landscape of high-entropy and complex concentrated alloys, quantified their high-temperature performance, built open mechanical-property datasets, and more recently benchmarked HEAs against commercial alloys to identify genuinely unexplored composition spaces for future alloy design.
 
-- S. Gorsse, D. B. Miracle, O. N. Senkov,  
-  *Mapping the world of complex concentrated alloys*,  
-  **Acta Materialia** 135 (2017) 177–187.  
-  https://doi.org/10.1016/j.actamat.2017.06.027  
+- D B. Miracle ans S. Gorsse
+  *Commercial Alloy Compositions Through a High-Entropy Lens*,
+  **JMR** (2026)
+  
+- O. N. Senkov, S. Gorsse, D. B. Miracle, S. I. Rao, T. M. Butler,  
+  *Correlations to improve high-temperature strength and room-temperature ductility of refractory complex concentrated alloys*,  
+  **Materials & Design** 239 (2024) 112762.  
+  [DOI: 10.1016/j.matdes.2024.112762](https://doi.org/10.1016/j.matdes.2024.112762)
 
-- O. N. Senkov, S. Gorsse, D. B. Miracle,  
-  *High temperature strength of refractory complex concentrated alloys*,  
-  **Acta Materialia** 175 (2019) 394–405.  
-  https://doi.org/10.1016/j.actamat.2019.06.032  
+- O. N. Senkov, S. Gorsse, R. Wheeler, E. J. Payton, D. B. Miracle,  
+  *Effect of Re on the microstructure and mechanical properties of NbTiZr and TaTiZr equiatomic alloys*,  
+  **Metals** 11 (2021) 1819.  
+  [DOI: 10.3390/met11111819](https://doi.org/10.3390/met11111819)
 
 - C. K. H. Borg, C. Frey, J. Moh, T. M. Pollock, S. Gorsse, D. B. Miracle,  
   O. N. Senkov, B. Meredig, J. E. Saal,  
   *Expanded dataset of mechanical properties and observed phases of multi-principal element alloys*,  
   **Scientific Data** 7 (2020) 430.  
-  https://doi.org/10.1038/s41597-020-00768-9  
+  [DOI: 10.1038/s41597-020-00768-9](https://doi.org/10.1038/s41597-020-00768-9)
+ 
+- O. N. Senkov, S. Gorsse, D. B. Miracle,  
+  *High temperature strength of refractory complex concentrated alloys*,  
+  **Acta Materialia** 175 (2019) 394–405.  
+  [DOI:10.1016/j.actamat.2019.06.032](https://doi.org/10.1016/j.actamat.2019.06.032)
 
-- O. N. Senkov, S. Gorsse, R. Wheeler, E. J. Payton, D. B. Miracle,  
-  *Effect of Re on the microstructure and mechanical properties of NbTiZr and TaTiZr equiatomic alloys*,  
-  **Metals** 11 (2021) 1819.  
-  https://doi.org/10.3390/met11111819  
-
-- O. N. Senkov, S. Gorsse, D. B. Miracle, S. I. Rao, T. M. Butler,  
-  *Correlations to improve high-temperature strength and room-temperature ductility of refractory complex concentrated alloys*,  
-  **Materials & Design** 239 (2024) 112762.  
-  https://doi.org/10.1016/j.matdes.2024.112762
+- S. Gorsse, D. B. Miracle, O. N. Senkov,  
+  *Mapping the world of complex concentrated alloys*,  
+  **Acta Materialia** 135 (2017) 177–187.  
+  [DOI:10.1016/j.actamat.2017.06.027](https://doi.org/10.1016/j.actamat.2017.06.027)
 
 ### Sustainability-Informed Alloy Design with AI
 This line of work is developed in close collaboration with Prof. M.R. Barnett (Deakin University, Australia) and focuses on integrating economic, environmental and societal criteria into AI-guided high-entropy alloy design.
@@ -75,28 +87,23 @@ To facilitate the practical application of these metrics, we developed an **open
 
 The publications below provide a foundation for this sustainability-aware exploration of HEA composition space.
 
-- S. Gorsse, T. Langlois, and M.R. Barnett,  
-  *Considering sustainability when searching for new high entropy alloys*,  
-  **Sustainable Materials and Technologies** 40 (2024) e00938.  
-  https://doi.org/10.1016/j.susmat.2024.e00938  
-
-- S. Gorsse, T. Langlois, A.-C. Yeh and M.R. Barnett,  
-  *Sustainability indicators in high entropy alloy design: an economic, environmental, and societal database*,  
-  **Scientific Data** 12 (2025) 288.  
-  https://doi.org/10.1038/s41597-025-04568-x  
-
 - M.R. Barnett and S. Gorsse,  
   *Sustainability of High Entropy Alloys and Do They Have a Place in a Circular Economy?*,  
   **Metallurgical and Materials Transactions A** 56 (2025) 4249.  
-  https://doi.org/10.1007/s11661-025-07928-9
+  [DOI: 10.1007/s11661-025-07928-9](https://doi.org/10.1007/s11661-025-07928-9)
+  
+- S. Gorsse, T. Langlois, A.-C. Yeh and M.R. Barnett,  
+  *Sustainability indicators in high entropy alloy design: an economic, environmental, and societal database*,  
+  **Scientific Data** 12 (2025) 288.  
+  [DOI: 10.1038/s41597-025-04568-x](https://doi.org/10.1038/s41597-025-04568-x)
+  
+- S. Gorsse, T. Langlois, and M.R. Barnett,  
+  *Considering sustainability when searching for new high entropy alloys*,  
+  **Sustainable Materials and Technologies** 40 (2024) e00938.  
+  [DOI: 10.1016/j.susmat.2024.e00938](https://doi.org/10.1016/j.susmat.2024.e00938)
 
 ### Thermodynamics-Guided Design of HEAs & CCAs
 In collaboration with Prof. Rajarshi Banerjee (University of North Texas, USA), this work combines thermodynamic reasoning, advanced microscopy and alloy processing to design high-entropy and complex concentrated alloys with controlled chemical ordering and tailored properties. The focus is on linking local atomic order, phase transformations and additive-manufacturing pathways to mechanical and functional performance.
-
-- S. Dasari et al.,  
-  *Tuning the degree of chemical ordering in the solid solution of a complex concentrated alloy and its impact on mechanical properties*,  
-  **Acta Materialia** 212 (2021) 116938.  
-  https://doi.org/10.1016/j.actamat.2021.116938  
 
 - V. Chaudhary et al.,  
   *Magnetic and mechanical properties of additively manufactured Alx(CoFeNi) complex concentrated alloys*,  
@@ -111,9 +118,14 @@ In collaboration with Prof. Rajarshi Banerjee (University of North Texas, USA), 
 - S. Dasari et al.,  
   *Exceptional enhancement of mechanical properties in high-entropy alloys via thermodynamically guided local chemical ordering*,  
   **Proceedings of the National Academy of Sciences** 120 (2023) e2211787120.  
-  https://doi.org/10.1073/pnas.2211787120  
+  https://doi.org/10.1073/pnas.2211787120
 
 - S. Dasari et al.,  
   *Non-classical nucleation of ordered L12 precipitates in the FCC based Al0.25CoFeNi high entropy alloy*,  
   **Journal of Applied Physics** 134 (2023) 015102.  
   https://doi.org/10.1063/5.0138924
+
+- S. Dasari et al.,  
+  *Tuning the degree of chemical ordering in the solid solution of a complex concentrated alloy and its impact on mechanical properties*,  
+  **Acta Materialia** 212 (2021) 116938.  
+  https://doi.org/10.1016/j.actamat.2021.116938  
