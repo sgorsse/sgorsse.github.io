@@ -26,6 +26,15 @@ I have built a sustained international research profile, with **120+ peer-review
 
 ## Recent Papers & Projects
 
+### AI-Guided Functional Materials
+This emerging research line is developed in collaboration with Prof. Zheng Liu (Nanyang Technological University, Singapore) and Prof. Gian-Marco Rignanese (UCLouvain, Belgium), extending my AI-for-materials work toward functional materials for energy and catalysis. We combine curated experimental data, materials descriptors, probabilistic machine learning and active learning to map complex design spaces and guide targeted experiments.
+A first outcome of the NTU collaboration is a curated experimental dataset and uncertainty-aware machine-learning framework for the exploration of multinary alloy catalysts for the hydrogen evolution reaction (HER).
+
+- S. Gorsse, B. Tang, Y. Tang, M. Ma and Z. Liu,
+  *Curated dataset of multinary alloy HER catalysts for composition-only modelling with Magpie descriptors and GP baselines*,
+  **Scientific Data** (2026).
+  [DOI: 10.1038/s41597-026-07856-2](https://doi.org/10.1038/s41597-026-07856-2)
+
 ### **AI-Driven Design of High-Temperature Structural Alloys**
 In this line of work, developed in collaboration with Prof. A.-C. Yeh (National Tsing Hua University, Taiwan), we combine physical metallurgy, CALPHAD-based thermodynamics and physics-informed, AI-driven exploration to design and assess high-temperature structural alloys, including HEAs and CCAs, for extreme-environment technologies.
 
@@ -108,24 +117,24 @@ In collaboration with Prof. Rajarshi Banerjee (University of North Texas, USA), 
 - V. Chaudhary et al.,  
   *Magnetic and mechanical properties of additively manufactured Alx(CoFeNi) complex concentrated alloys*,  
   **Scripta Materialia** 224 (2023) 115149.  
-  https://doi.org/10.1016/j.scriptamat.2022.115149  
+  [DOI: 10.1016/j.scriptamat.2022.115149](https://doi.org/10.1016/j.scriptamat.2022.115149)
 
 - A. Chesetti et al.,  
   *3D printable low density B2+BCC refractory element based complex concentrated alloy with high compressive strength and plasticity*,  
   **Scripta Materialia** 225 (2023) 115160.  
-  https://doi.org/10.1016/j.scriptamat.2022.115160  
+  [DOI: 10.1016/j.scriptamat.2022.115160](https://doi.org/10.1016/j.scriptamat.2022.115160)
 
 - S. Dasari et al.,  
   *Exceptional enhancement of mechanical properties in high-entropy alloys via thermodynamically guided local chemical ordering*,  
   **Proceedings of the National Academy of Sciences** 120 (2023) e2211787120.  
-  https://doi.org/10.1073/pnas.2211787120
+  [DOI: 10.1073/pnas.2211787120](https://doi.org/10.1073/pnas.2211787120)
 
 - S. Dasari et al.,  
   *Non-classical nucleation of ordered L12 precipitates in the FCC based Al0.25CoFeNi high entropy alloy*,  
   **Journal of Applied Physics** 134 (2023) 015102.  
-  https://doi.org/10.1063/5.0138924
+  [DOI: 10.1063/5.0138924](https://doi.org/10.1063/5.0138924)
 
 - S. Dasari et al.,  
   *Tuning the degree of chemical ordering in the solid solution of a complex concentrated alloy and its impact on mechanical properties*,  
   **Acta Materialia** 212 (2021) 116938.  
-  https://doi.org/10.1016/j.actamat.2021.116938  
+  [DOI: 10.1016/j.actamat.2021.116938](https://doi.org/10.1016/j.actamat.2021.116938)
