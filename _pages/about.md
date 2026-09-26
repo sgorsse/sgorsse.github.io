@@ -38,15 +38,15 @@ A first outcome of the NTU collaboration is a curated experimental dataset and u
 ### **AI-Driven Design of High-Temperature Structural Alloys**
 In this line of work, developed in collaboration with Prof. A.-C. Yeh (National Tsing Hua University, Taiwan), we combine physical metallurgy, CALPHAD-based thermodynamics and physics-informed, AI-driven exploration to design and assess high-temperature structural alloys, including HEAs and CCAs, for extreme-environment technologies.
 
-- W.-C. Lin, S. Gorsse, A.-C. Yeh, 
-  *Machine-Learning-Assisted Multi-Objective Screening of Hardness and Oxidation Resistance in Refractory High-Entropy Alloys*,
+- W.-C. Lin, S. Gorsse, A.-C. Yeh,  
+  *Machine-Learning-Assisted Multi-Objective Screening of Hardness and Oxidation Resistance in Refractory High-Entropy Alloys*,  
 
-- W.-C. Lin, S. Gorsse, A.-C. Yeh,
-  *Dataset of oxidation properties of refractory alloys*,
-  **Data in Brief** 68 (2026) 113105.
+- W.-C. Lin, S. Gorsse, A.-C. Yeh,  
+  *Dataset of oxidation properties of refractory alloys*,  
+  **Data in Brief** 68 (2026) 113105.  
   [DOI: 10.1016/j.dib.2026.113105](https://doi.org/10.1016/j.dib.2026.113105)
 
-- S. Gorsse et al.
+- S. Gorsse et al.  
   *Advancing refractory high entropy alloy development with AI-predictive models for high temperature oxidation resistance*,  
   **Scripta Materialia** 255 (2025) 116394.  
   [DOI: 10.1016/j.scriptamat.2024.116394](https://doi.org/10.1016/j.scriptamat.2024.116394)
