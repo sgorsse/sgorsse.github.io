@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a materials scientist, and my research focuses on using AI to accelerate materials discovery and design—especially for complex metallic alloys, such as high-entropy alloys. I use AI not as a black box, but as a way to connect data, physics, and experiments into a coherent design loop for new materials.
+I’m a materials scientist, and my research focuses on using AI to accelerate materials discovery and design, especially for complex metallic alloys such as high-entropy alloys. I use AI not as a black box, but as a way to connect data, physics, and experiments into a coherent design loop for new materials.
 
 ## Research Focus
 
