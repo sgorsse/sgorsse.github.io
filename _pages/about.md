@@ -48,7 +48,7 @@ In this line of work, developed in collaboration with Prof. A.-C. Yeh (National 
 ### **High Entropy Alloys & Complex Concentrated Alloys**
 In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air Force Research Laboratory (AFRL, USA), we have mapped the landscape of high-entropy and complex concentrated alloys, quantified their high-temperature performance, built open mechanical-property datasets, and more recently benchmarked HEAs against commercial alloys to identify genuinely unexplored composition spaces for future alloy design.
 
-- D B. Miracle ans S. Gorsse 
+- D B. Miracle ans S. Gorsse,
   *Commercial Alloy Compositions Through a High-Entropy Lens*,  
   **Journal of Materials Research** (2026)
   [DOI: 10.1557/s43578-026-01995-3](https://rdcu.be/9mupH9jp1oUa)
