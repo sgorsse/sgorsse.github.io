@@ -50,7 +50,7 @@ In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air
 
 - D B. Miracle ans S. Gorsse,  
   *Commercial Alloy Compositions Through a High-Entropy Lens*,  
-  **Journal of Materials Research** (2026). 
+  **Journal of Materials Research** (2026).  
   [DOI: 10.1557/s43578-026-01995-3](https://rdcu.be/9mupH9jp1oUa)
   
 - O. N. Senkov, S. Gorsse, D. B. Miracle, S. I. Rao, T. M. Butler,  
