@@ -45,6 +45,30 @@ In this line of work, developed in collaboration with Prof. A.-C. Yeh (National 
 
 - **PRISM — a reusable physics-informed foundation for refractory-alloy property prediction**, with a manuscript in preparation. The **Physics-Resolved Inference & Stacking Model (PRISM)** decomposes theoretical laws into mechanistic descriptors and combines them with AI to predict high-temperature yield strength and room-temperature ductility in refractory alloys, including HEAs, with a framework designed to extend to additional properties and alloy chemistries.
 
+### **High Entropy Alloys & Complex Concentrated Alloys**
+In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air Force Research Laboratory (AFRL, USA), we have mapped the landscape of high-entropy and complex concentrated alloys, quantified their high-temperature performance, built open mechanical-property datasets, and more recently benchmarked HEAs against commercial alloys to identify genuinely unexplored composition spaces for future alloy design.
+
+- D B. Miracle ans S. Gorsse 
+  *Commercial Alloy Compositions Through a High-Entropy Lens*,  
+  **Journal of Materials Research** (2026)
+  [DOI: 10.1557/s43578-026-01995-3](https://rdcu.be/9mupH9jp1oUa)
+  
+- O. N. Senkov, S. Gorsse, D. B. Miracle, S. I. Rao, T. M. Butler,  
+  *Correlations to improve high-temperature strength and room-temperature ductility of refractory complex concentrated alloys*,  
+  **Materials & Design** 239 (2024) 112762.  
+  [DOI: 10.1016/j.matdes.2024.112762](https://doi.org/10.1016/j.matdes.2024.112762)
+
+- C. K. H. Borg, C. Frey, J. Moh, T. M. Pollock, S. Gorsse, D. B. Miracle,  
+  O. N. Senkov, B. Meredig, J. E. Saal,  
+  *Expanded dataset of mechanical properties and observed phases of multi-principal element alloys*,  
+  **Scientific Data** 7 (2020) 430.  
+  [DOI: 10.1038/s41597-020-00768-9](https://doi.org/10.1038/s41597-020-00768-9)
+
+- S. Gorsse, D. B. Miracle, O. N. Senkov,  
+  *Mapping the world of complex concentrated alloys*,  
+  **Acta Materialia** 135 (2017) 177–187.  
+  [DOI:10.1016/j.actamat.2017.06.027](https://doi.org/10.1016/j.actamat.2017.06.027)
+  
 ### **Sustainability-Informed Alloy Design with AI**
 Developed in close collaboration with Prof. M. R. Barnett (Deakin University, Australia), this work integrates economic, environmental and societal criteria into AI-guided high-entropy alloy design through quantitative indicators, open datasets and decision frameworks. We also developed an **open-source tool** that evaluates nine sustainability footprints and benchmarks new alloy compositions against HEAs/CCAs and commercial alloys.
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://alloy-sustainability-calculator-sg.streamlit.app/)
@@ -63,29 +87,6 @@ Developed in close collaboration with Prof. M. R. Barnett (Deakin University, Au
   *Considering sustainability when searching for new high entropy alloys*,  
   **Sustainable Materials and Technologies** 40 (2024) e00938.  
   [DOI: 10.1016/j.susmat.2024.e00938](https://doi.org/10.1016/j.susmat.2024.e00938)
-
-### **High Entropy Alloys & Complex Concentrated Alloys**
-In a long-standing collaboration with Dr D. B. Miracle and colleagues at the Air Force Research Laboratory (AFRL, USA), we have mapped the landscape of high-entropy and complex concentrated alloys, quantified their high-temperature performance, built open mechanical-property datasets, and more recently benchmarked HEAs against commercial alloys to identify genuinely unexplored composition spaces for future alloy design.
-
-- D B. Miracle ans S. Gorsse 
-  *Commercial Alloy Compositions Through a High-Entropy Lens*,  
-  **JMR** (2026)
-  
-- O. N. Senkov, S. Gorsse, D. B. Miracle, S. I. Rao, T. M. Butler,  
-  *Correlations to improve high-temperature strength and room-temperature ductility of refractory complex concentrated alloys*,  
-  **Materials & Design** 239 (2024) 112762.  
-  [DOI: 10.1016/j.matdes.2024.112762](https://doi.org/10.1016/j.matdes.2024.112762)
-
-- C. K. H. Borg, C. Frey, J. Moh, T. M. Pollock, S. Gorsse, D. B. Miracle,  
-  O. N. Senkov, B. Meredig, J. E. Saal,  
-  *Expanded dataset of mechanical properties and observed phases of multi-principal element alloys*,  
-  **Scientific Data** 7 (2020) 430.  
-  [DOI: 10.1038/s41597-020-00768-9](https://doi.org/10.1038/s41597-020-00768-9)
-
-- S. Gorsse, D. B. Miracle, O. N. Senkov,  
-  *Mapping the world of complex concentrated alloys*,  
-  **Acta Materialia** 135 (2017) 177–187.  
-  [DOI:10.1016/j.actamat.2017.06.027](https://doi.org/10.1016/j.actamat.2017.06.027)
   
 ### **Thermodynamics-Guided Design of HEAs & CCAs**
 In collaboration with Prof. Rajarshi Banerjee (University of North Texas, USA), this work combines thermodynamic reasoning, advanced microscopy and alloy processing to design high-entropy and complex concentrated alloys with controlled chemical ordering and tailored properties. The focus is on linking local atomic order, phase transformations and additive-manufacturing pathways to mechanical and functional performance.
